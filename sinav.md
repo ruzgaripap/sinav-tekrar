@@ -180,7 +180,12 @@ birçok şehir fethetmiş ve sonra ise İmparatorluk Olmuştur.
 -----------------------------------------------------------------------------
 
 * Osmanlı Devleti İskan politikası ile insanları fetih ettiği yerlere 
-yerleştirmiş ve onlardan vergi olarak asker almıştır. Bu sayede
+yerleştirmiştir, kan davası olan kişilere öncelik vermiştir.
+
+----------------------------------------------------------------------------
+
+* Tımar sisteminde kişilere toprak vermiş maaşını kesmiştir,
+ayrıca onlardan vergi olarak asker almıştır. Bu sayede
 hem fetih ettiği bölgelerde kalıcı olmuş hemde asker ihtiyacını
 sağlamıştır.
 
