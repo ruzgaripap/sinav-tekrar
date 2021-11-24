@@ -269,28 +269,19 @@ donanmayı bir gecede karadan Haliç'e indirtti.
 
 -----------------------------------------------------------------------------
 
-Sağ dön,
-Sola dön,
-Arkaya Dön (Sağdan alarak),
-Sola ve Arkaya Dön (Soldan alarak).
+* Voleybol Terimleri:
 
-(bunları işlemedik onun için kafa karıştırmayın)
+1- Smaç:
+Voleybolda sıçrayıp topa yüksekten vurarak topu yukarıdan aşağıya hızlı ve dik bir şekilde rakip sahaya indirme, smaç vuruşu.
 
+----------------------------------------------------------------------------
 
------------------------------------------------------------------------------
+2- Parmak Pası:
 
-* 3 Adım Kuralı : Basketbol = Saha "28m x 15m"
-
------------------------------------------------------------------------------
-
-* Pas kuralı : Voleybol = Saha "18m x 9m"
+Voleybolda, yüksekten gelen topu kendi takım arkadaşına pas kaldırmak için kullanılan topa vuruş şeklidir.
 
 -----------------------------------------------------------------------------
 
-* El yok kuralı : Futbol = Saha "90m x 120m"
+3- Manşet
 
------------------------------------------------------------------------------
-
-* Ayak yok kuralı: Hentbol = Saha "40m x 20m"
-
------------------------------------------------------------------------------
+Voleybolda manşet pas, iki kolun iç tarafı, dirsekle el arasındaki bölümle topu fırlatma metodudur.
