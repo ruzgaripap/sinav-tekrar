@@ -1,4 +1,4 @@
-                      İNGİLİZCE SINAVI : 100
+                                                       İNGİLİZCE SINAVI : 100
 
 
 Konular:
@@ -95,7 +95,7 @@ Fur: Kürk
 -------------------------------------------------------------------------------
 
 
-                      SOSYAL BİLGİLER : ?
+                                                       SOSYAL BİLGİLER : ?
                       
                  
                  
@@ -262,7 +262,7 @@ donanmayı bir gecede karadan Haliç'e indirtti.
 -----------------------------------------------------------------------------
 
 
-                               BEDEN
+                                                       BEDEN
                                
                                
 (Birşey işlemedik ama yinede temel bilgiler): 
