@@ -165,28 +165,28 @@ Odanı toplarsan gerektiğinde gereken şeyleri bulursun. (Ben Dili) = RİCA
 -----------------------------------------------------------------------------
 
 
-Bir Devlet Doğuyor:
+* Bir Devlet Doğuyor:
 
 -----------------------------------------------------------------------------
 
-Osmanlı Beyliği kısa sürede **Coğrafi Bölge, Arazi, Bizansın Zayıf
+* Osmanlı Beyliği kısa sürede **Coğrafi Bölge, Arazi, Bizansın Zayıf
 Olması, Uç Beyliği Olması** gibi nedenlerden dolayı devlet olmuş,
 birçok şehir fethetmiş ve sonra ise İmparatorluk Olmuştur.
 
 -----------------------------------------------------------------------------
 
-Osmanlı güçlenirken Ahilerin çok fazla desteği olmuştur.
+* Osmanlı güçlenirken Ahilerin çok fazla desteği olmuştur.
 
 -----------------------------------------------------------------------------
 
-Osmanlı Devleti İskan politikası ile insanları fetih ettiği yerlere 
+* Osmanlı Devleti İskan politikası ile insanları fetih ettiği yerlere 
 yerleştirmiş ve onlardan vergi olarak asker almıştır. Bu sayede
 hem fetih ettiği bölgelerde kalıcı olmuş hemde asker ihtiyacını
 sağlamıştır.
 
 -----------------------------------------------------------------------------
 
-İstimalet(Hoşgörü) politikası ise Divan-ı Rum vb. kişileri
+* İstimalet(Hoşgörü) politikası ise Divan-ı Rum vb. kişileri
 önceden gönderip oranın gönlünü kazanma politikasına
 denir.
 
@@ -196,13 +196,13 @@ denir.
 
 
 
-İstanbulun Fethi:
+* İstanbulun Fethi:
 
 
 -----------------------------------------------------------------------------
 
 
-Nedenleri:
+* Nedenleri:
 
 1-İstanbulun Osmanlının tam ortasında Bizansta olması.
 2-Rumeliye geçişin zorlaşması.
@@ -212,7 +212,7 @@ Nedenleri:
 
 -----------------------------------------------------------------------------
 
-Osmanlının Hazırlıkları:
+* Osmanlının Hazırlıkları:
 
 1- Rumeli hisarı yaptırıldı.
 2- Şahi topları yapıldı.
@@ -222,7 +222,7 @@ Osmanlının Hazırlıkları:
 
 -----------------------------------------------------------------------------
 
-Bizanslıların Hazırlıkları:
+* Bizanslıların Hazırlıkları:
 
 1-Surlar tamir edildi.
 2-Boğaz Zincirle kapatıldı.
@@ -231,7 +231,7 @@ Bizanslıların Hazırlıkları:
 
 -----------------------------------------------------------------------------
 
-Kuşatılması:
+* Kuşatılması:
 
 Osmanlılar, büyük bir orduyla İstanbul'a gelerek 
 şehri karadan ve denizden kuşattılar.
@@ -241,7 +241,7 @@ donanmayı bir gecede karadan Haliç'e indirtti.
 
 -----------------------------------------------------------------------------
 
-Sonuçlar:
+* Sonuçlar:
 
 1-Anadolu - Rumeli birliği sağlandı
 2-Başkent İstanbul oldu.
@@ -251,7 +251,7 @@ Sonuçlar:
 
 -----------------------------------------------------------------------------
 
-Sonuçlar (Dünyasal):
+* Sonuçlar (Dünyasal):
 
 1-Rönesans başladı.
 2-Bizans yıkıldı.
@@ -279,18 +279,18 @@ Sola ve Arkaya Dön (Soldan alarak).
 
 -----------------------------------------------------------------------------
 
-3 Adım Kuralı : Basketbol = Saha "28m x 15m"
+* 3 Adım Kuralı : Basketbol = Saha "28m x 15m"
 
 -----------------------------------------------------------------------------
 
-Pas kuralı : Voleybol = Saha "18m x 9m"
+* Pas kuralı : Voleybol = Saha "18m x 9m"
 
 -----------------------------------------------------------------------------
 
-El yok kuralı : Futbol = Saha "90m x 120m"
+* El yok kuralı : Futbol = Saha "90m x 120m"
 
 -----------------------------------------------------------------------------
 
-Ayak yok kuralı: Hentbol = Saha "40m x 20m"
+* Ayak yok kuralı: Hentbol = Saha "40m x 20m"
 
 -----------------------------------------------------------------------------
