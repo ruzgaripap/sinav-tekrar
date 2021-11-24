@@ -95,7 +95,7 @@ Fur: Kürk
 -------------------------------------------------------------------------------
 
 
-                      SOSYAL BİLGİLER
+                      SOSYAL BİLGİLER : ?
                       
                  
                  
@@ -162,24 +162,44 @@ Odanı toplarsan gerektiğinde gereken şeyleri bulursun. (Ben Dili) = RİCA
 
 
 
+-----------------------------------------------------------------------------
+
+
 Bir Devlet Doğuyor:
+
+-----------------------------------------------------------------------------
 
 Osmanlı Beyliği kısa sürede **Coğrafi Bölge, Arazi, Bizansın Zayıf
 Olması, Uç Beyliği Olması** gibi nedenlerden dolayı devlet olmuş,
 birçok şehir fethetmiş ve sonra ise İmparatorluk Olmuştur.
 
+-----------------------------------------------------------------------------
+
 Osmanlı güçlenirken Ahilerin çok fazla desteği olmuştur.
+
+-----------------------------------------------------------------------------
 
 Osmanlı Devleti İskan politikası ile insanları fetih ettiği yerlere 
 yerleştirmiş ve onlardan vergi olarak asker almıştır. Bu sayede
 hem fetih ettiği bölgelerde kalıcı olmuş hemde asker ihtiyacını
 sağlamıştır.
 
+-----------------------------------------------------------------------------
+
 İstimalet(Hoşgörü) politikası ise Divan-ı Rum vb. kişileri
 önceden gönderip oranın gönlünü kazanma politikasına
 denir.
 
+
+
+---------------------------------------------------------------------------
+
+
+
 İstanbulun Fethi:
+
+
+-----------------------------------------------------------------------------
 
 
 Nedenleri:
@@ -190,6 +210,8 @@ Nedenleri:
 4-Haçlı seferlerinin yapılması.
 5-Hz. Muhammedin övgüsüne layık olmak.
 
+-----------------------------------------------------------------------------
+
 Osmanlının Hazırlıkları:
 
 1- Rumeli hisarı yaptırıldı.
@@ -198,12 +220,16 @@ Osmanlının Hazırlıkları:
 4- 400 tane gemi yaptırıldı.
 5- Saldırmazlık antlaşması yapıldı.
 
+-----------------------------------------------------------------------------
+
 Bizanslıların Hazırlıkları:
 
 1-Surlar tamir edildi.
 2-Boğaz Zincirle kapatıldı.
 3-Rum Ateşi denilen silahlar tamir edildi.
 4-Avrupadan destek aldı.
+
+-----------------------------------------------------------------------------
 
 Kuşatılması:
 
@@ -213,6 +239,8 @@ Kuşatma sırasında II. Mehmet 72 parça gemiden oluşan
 donanmayı bir gecede karadan Haliç'e indirtti.
 53 günlük bir kuşatmadan sonra 29 Mayıs 1453’te İstanbul fethedildi.
 
+-----------------------------------------------------------------------------
+
 Sonuçlar:
 
 1-Anadolu - Rumeli birliği sağlandı
@@ -220,6 +248,8 @@ Sonuçlar:
 3-Saygınlık arttı.
 4-II. Mehmed "Fatih" oldu.
 5-Osmanlının gücü belli oldu.
+
+-----------------------------------------------------------------------------
 
 Sonuçlar (Dünyasal):
 
@@ -229,43 +259,38 @@ Sonuçlar (Dünyasal):
 4-Derebeylik sistemi yok oldu.
 5-Yeniçağ başladı.
 
+-----------------------------------------------------------------------------
 
 
+                               BEDEN
+                               
+                               
+(Birşey işlemedik ama yinede temel bilgiler): 
+
+-----------------------------------------------------------------------------
+
+Sağ dön,
+Sola dön,
+Arkaya Dön (Sağdan alarak),
+Sola ve Arkaya Dön (Soldan alarak).
+
+(bunları işlemedik onun için kafa karıştırmayın)
 
 
+-----------------------------------------------------------------------------
 
+3 Adım Kuralı : Basketbol = Saha "28m x 15m"
 
+-----------------------------------------------------------------------------
 
+Pas kuralı : Voleybol = Saha "18m x 9m"
 
+-----------------------------------------------------------------------------
 
+El yok kuralı : Futbol = Saha "90m x 120m"
 
+-----------------------------------------------------------------------------
 
+Ayak yok kuralı: Hentbol = Saha "40m x 20m"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------
